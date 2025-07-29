@@ -1,0 +1,56 @@
+/**
+ * Database Management Routes - BACKUP OF ORIGINAL
+ * Provides endpoints for database backup and restore functionality
+ */
+const express = require('express');
+const router = express.Router();
+const { exec, spawn } = require('child_process');
+const fs = require('fs');
+const path = require('path');
+const { v4: uuidv4 } = require('uuid');
+const multer = require('multer');
+const { Sequelize } = require('sequelize');
+const sequelizeConfig = require('../../sequelize.config');
+
+// Define upload storage for database restore files
+let storage;
+
+// Use memory storage in production (Heroku) environment
+if (process.env.NODE_ENV === 'production') {
+  storage = multer.memoryStorage();
+  console.log('Using memory storage for file uploads in production environment');
+} else {
+  // Use disk storage for development
+  storage = multer.diskStorage({
+    destination: function (req, file, cb) {
+      const backupsDir = path.join(__dirname, '../../backups');
+      if (!fs.existsSync(backupsDir)) {
+        fs.mkdirSync(backupsDir, { recursive: true });
+      }
+      cb(null, backupsDir);
+    },
+    filename: function (req, file, cb) {
+      const timestamp = new Date().toISOString().replace(/[:.]/g, '-');
+      cb(null, `restore-${timestamp}-${file.originalname}`);
+    }
+  });
+  console.log('Using disk storage for file uploads in development environment');
+}
+
+const upload = multer({ 
+  storage,
+  fileFilter: function (req, file, cb) {
+    // Accept only .dump or .sql files
+    if (!file.originalname.match(/\.(dump|sql)$/)) {
+      return cb(new Error('Only .dump or .sql files are allowed!'), false);
+    }
+    cb(null, true);
+  },
+  limits: {
+    fileSize: 50 * 1024 * 1024 // 50MB limit
+  }
+});
+
+// Rest of the file content...
+
+module.exports = router; 

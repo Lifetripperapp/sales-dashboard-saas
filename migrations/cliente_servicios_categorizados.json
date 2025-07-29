@@ -1,0 +1,2577 @@
+[
+  {
+    "cliente": "ADESUR",
+    "servicios": [
+      {
+        "servicio": "M365",
+        "nota": "Apps for Business",
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "Veeam",
+        "nota": "Gratis",
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "Vmware",
+        "nota": "Version 672 (sin soporte)",
+        "categoria": "Virtualización y Servidores"
+      },
+      {
+        "servicio": "Forti",
+        "nota": "Mikrotik",
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "HW",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Cableado",
+        "nota": "CAT 5",
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "HW Red",
+        "nota": "x (poca cosa)",
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "CCTV",
+        "nota": "x (analogico y no se lo pusimos nosotros)",
+        "categoria": "Telefonía y CCTV"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Guido Cabrera",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Pablo Bulla",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "AFAP ITAU",
+    "servicios": [
+      {
+        "servicio": "M365",
+        "nota": null,
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "Veeam",
+        "nota": null,
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "Vmware",
+        "nota": null,
+        "categoria": "Virtualización y Servidores"
+      },
+      {
+        "servicio": "Antivirus",
+        "nota": "-",
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "Forti",
+        "nota": null,
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "Adobe",
+        "nota": null,
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "HW",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "HW Red",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "IP Phone",
+        "nota": "-",
+        "categoria": "Telefonía y CCTV"
+      },
+      {
+        "servicio": "CCTV",
+        "nota": "-",
+        "categoria": "Telefonía y CCTV"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Manu",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "AGROENFOQUE",
+    "servicios": [
+      {
+        "servicio": "M365",
+        "nota": null,
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "Veeam",
+        "nota": "versión gratis",
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "Forti",
+        "nota": "Mikrotik",
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "HW",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Cableado",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "HW Red",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "IP Phone",
+        "nota": null,
+        "categoria": "Telefonía y CCTV"
+      },
+      {
+        "servicio": "CCTV",
+        "nota": null,
+        "categoria": "Telefonía y CCTV"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Pablo Bulla",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "ALICORP",
+    "servicios": [
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Pablo Bulla",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "Almar Uruguay",
+    "servicios": [
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Guido Cabrera",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "Aluminios del Uruguay",
+    "servicios": [
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Guido Cabrera",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "AMEC",
+    "servicios": [
+      {
+        "servicio": "Adobe",
+        "nota": null,
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Guido Cabrera",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "ANP - Adm Nacional Puertos",
+    "servicios": [
+      {
+        "servicio": "Veeam",
+        "nota": null,
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "ANTEL",
+    "servicios": [
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Juan Manuel Tato",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Sergio Cruz",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "ANTIL",
+    "servicios": [
+      {
+        "servicio": "Veeam",
+        "nota": null,
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "Respaldo Nube",
+        "nota": null,
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "Vmware",
+        "nota": null,
+        "categoria": "Virtualización y Servidores"
+      },
+      {
+        "servicio": "Forti",
+        "nota": null,
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "HW",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Cableado",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "HW Red",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "CCTV",
+        "nota": null,
+        "categoria": "Telefonía y CCTV"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Eduardo Ligüera",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "Applus ITV",
+    "servicios": [
+      {
+        "servicio": "Forti",
+        "nota": null,
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Guido Cabrera",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "ARCA CONSTRUCCIONES",
+    "servicios": [
+      {
+        "servicio": "Veeam",
+        "nota": null,
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "Respaldo Nube",
+        "nota": null,
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "Forti",
+        "nota": null,
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "HW",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Cableado",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "HW Red",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "IP Phone",
+        "nota": null,
+        "categoria": "Telefonía y CCTV"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Pablo Bulla",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "ASM S.A",
+    "servicios": [
+      {
+        "servicio": "M365",
+        "nota": null,
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "jan/deimis",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "ASM SA",
+    "servicios": [
+      {
+        "servicio": "M365",
+        "nota": null,
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "Veeam",
+        "nota": "versión gratis",
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "Vmware",
+        "nota": "viejo",
+        "categoria": "Virtualización y Servidores"
+      },
+      {
+        "servicio": "Forti",
+        "nota": "Mikrotik",
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "HW",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "HW Red",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "IP Phone",
+        "nota": null,
+        "categoria": "Telefonía y CCTV"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Jan L. Wojciechowski / Deimis Quintanilla",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "BERKES",
+    "servicios": [
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "Breeders and Packers Uruguay",
+    "servicios": [
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Guido Cabrera",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "CARRASCO POLO",
+    "servicios": [
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Pablo Bulla",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "CASANI",
+    "servicios": [
+      {
+        "servicio": "Veeam",
+        "nota": "Gratis",
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "Vmware",
+        "nota": "Version 8 (sin soporte)",
+        "categoria": "Virtualización y Servidores"
+      },
+      {
+        "servicio": "Antivirus",
+        "nota": null,
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "Forti",
+        "nota": "Mikrotik",
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "Cableado",
+        "nota": "CAT 5",
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "HW Red",
+        "nota": "x (router, switch, ap)",
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "CCTV",
+        "nota": "x ( no lo instalamos y tampoco lo adminisitramos)",
+        "categoria": "Telefonía y CCTV"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Guido Cabrera",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Pablo Bulla",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "CDM Logística",
+    "servicios": [
+      {
+        "servicio": "M365",
+        "nota": "Apps for Business",
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "Veeam",
+        "nota": "Gratis",
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "Antivirus",
+        "nota": "Symantec",
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "Forti",
+        "nota": "x (60F)",
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "HW",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Cableado",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "HW Red",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Guido Cabrera",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Nicolás Ferraguz",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "CENTROCOLOR",
+    "servicios": [
+      {
+        "servicio": "Veeam",
+        "nota": null,
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "Respaldo Nube",
+        "nota": null,
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "Vmware",
+        "nota": "Version 8 (sin soporte)",
+        "categoria": "Virtualización y Servidores"
+      },
+      {
+        "servicio": "Forti",
+        "nota": "UBQ",
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "Cableado",
+        "nota": "CAT 5",
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Guido Cabrera",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Pablo Bulla",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "CONAMI",
+    "servicios": [
+      {
+        "servicio": "M365",
+        "nota": null,
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "Veeam",
+        "nota": "Gratis",
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "NUBE",
+        "nota": "AZURE (Nodum)",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Antivirus",
+        "nota": "Kasperky (chequear)",
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "Forti",
+        "nota": "Mikrotik",
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "Cableado",
+        "nota": "CAT 5",
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "HW Red",
+        "nota": "x (poca cosa, solo switch)",
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Guido Cabrera",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Pablo Bulla",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "COPAGRAN",
+    "servicios": [
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "CORIN",
+    "servicios": [
+      {
+        "servicio": "M365",
+        "nota": null,
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "Veeam",
+        "nota": null,
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "Respaldo Nube",
+        "nota": "tienen 2 NAS",
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "Vmware",
+        "nota": null,
+        "categoria": "Virtualización y Servidores"
+      },
+      {
+        "servicio": "Antivirus",
+        "nota": null,
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "Forti",
+        "nota": null,
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "HW",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Cableado",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "HW Red",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "IP Phone",
+        "nota": null,
+        "categoria": "Telefonía y CCTV"
+      },
+      {
+        "servicio": "CCTV",
+        "nota": null,
+        "categoria": "Telefonía y CCTV"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Deimis Quintanilla",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "Cymaco",
+    "servicios": [
+      {
+        "servicio": "Veeam",
+        "nota": null,
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "Vmware",
+        "nota": null,
+        "categoria": "Virtualización y Servidores"
+      },
+      {
+        "servicio": "Forti",
+        "nota": null,
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "HW",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "HW Red",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Juan Manuel Tato",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "DEAMBROSI",
+    "servicios": [
+      {
+        "servicio": "M365",
+        "nota": null,
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "NUBE",
+        "nota": "AZURE",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Forti",
+        "nota": null,
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "DESEM",
+    "servicios": [
+      {
+        "servicio": "M365",
+        "nota": "x (no se lo vendimos)",
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "Forti",
+        "nota": "Mikrotik / Dream Machine",
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "HW",
+        "nota": "Arreglamos donaciones",
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Cableado",
+        "nota": "CAT 5",
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Guido Cabrera",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Pablo Bulla",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "DISCO",
+    "servicios": [
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "Divino S.A.",
+    "servicios": [
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "ECOTECNO - Distiklos",
+    "servicios": [
+      {
+        "servicio": "M365",
+        "nota": null,
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "Veeam",
+        "nota": null,
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "VDC",
+        "nota": "En proceso",
+        "categoria": "Virtualización y Servidores"
+      },
+      {
+        "servicio": "Respaldo Nube",
+        "nota": null,
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "NUBE",
+        "nota": "en proceso a AZURE",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Vmware",
+        "nota": null,
+        "categoria": "Virtualización y Servidores"
+      },
+      {
+        "servicio": "Antivirus",
+        "nota": "solo en servers",
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "Forti",
+        "nota": "Meraki (movistar)",
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "Adobe",
+        "nota": null,
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "HW",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Cableado",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "HW Red",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "IP Phone",
+        "nota": null,
+        "categoria": "Telefonía y CCTV"
+      },
+      {
+        "servicio": "CCTV",
+        "nota": null,
+        "categoria": "Telefonía y CCTV"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Jan L. Wojciechowski",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "ECOTECNO - Partry",
+    "servicios": [
+      {
+        "servicio": "M365",
+        "nota": null,
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "Veeam",
+        "nota": null,
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "VDC",
+        "nota": "En proceso",
+        "categoria": "Virtualización y Servidores"
+      },
+      {
+        "servicio": "Respaldo Nube",
+        "nota": null,
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "NUBE",
+        "nota": "en proceso a AZURE",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Vmware",
+        "nota": null,
+        "categoria": "Virtualización y Servidores"
+      },
+      {
+        "servicio": "Antivirus",
+        "nota": "solo en servers",
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "Forti",
+        "nota": "Meraki (movistar)",
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "Adobe",
+        "nota": null,
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "HW",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Cableado",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "HW Red",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "IP Phone",
+        "nota": null,
+        "categoria": "Telefonía y CCTV"
+      },
+      {
+        "servicio": "CCTV",
+        "nota": null,
+        "categoria": "Telefonía y CCTV"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Jan L. Wojciechowski",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "ECOTECNO IMM",
+    "servicios": [
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Jan L. Wojciechowski",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "ENCRETEC",
+    "servicios": [
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "ENDEAVOR",
+    "servicios": [
+      {
+        "servicio": "M365",
+        "nota": "Solo ShareP / Google (no se lo vendimos)",
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "Forti",
+        "nota": "Mikrotick",
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "HW",
+        "nota": "Arreglamos donaciones",
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Guido Cabrera",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "ESTUDIO ASSANDRI",
+    "servicios": [
+      {
+        "servicio": "Veeam",
+        "nota": null,
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "Respaldo Nube",
+        "nota": null,
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "Vmware",
+        "nota": null,
+        "categoria": "Virtualización y Servidores"
+      },
+      {
+        "servicio": "Forti",
+        "nota": null,
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "HW",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Cableado",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "HW Red",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Jan L. Wojciechowski",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "FORTEX",
+    "servicios": [
+      {
+        "servicio": "Veeam",
+        "nota": null,
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "NUBE",
+        "nota": "AWS",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Vmware",
+        "nota": "Promox",
+        "categoria": "Virtualización y Servidores"
+      },
+      {
+        "servicio": "Antivirus",
+        "nota": "PREX",
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "Forti",
+        "nota": null,
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Pablo Bulla",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "GLETIR S.A.",
+    "servicios": [
+      {
+        "servicio": "M365",
+        "nota": "Google (no se lo vendemos)",
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "Forti",
+        "nota": "Mikrotick",
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "HW",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Guido Cabrera",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "Grupo Maccio",
+    "servicios": [
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "Gustavo Dendi",
+    "servicios": [
+      {
+        "servicio": "M365",
+        "nota": null,
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "HECHO ACA",
+    "servicios": [
+      {
+        "servicio": "Veeam",
+        "nota": "Gratis",
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "Forti",
+        "nota": "Mikrotick",
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "HW",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Guido Cabrera",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Gabi",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "Hospital Pasteur",
+    "servicios": [
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Juan Manuel Tato",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "IDEG - Hnos Maristas",
+    "servicios": [
+      {
+        "servicio": "Forti",
+        "nota": null,
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Guido Cabrera",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "IMPERPLAST",
+    "servicios": [
+      {
+        "servicio": "M365",
+        "nota": null,
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "HW",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Cableado",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "HW Red",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "IP Phone",
+        "nota": null,
+        "categoria": "Telefonía y CCTV"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Pablo Bulla",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "INDUSTRIALL",
+    "servicios": [
+      {
+        "servicio": "M365",
+        "nota": "x (no se lo vendimos)",
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "Veeam",
+        "nota": "Gratis",
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "Forti",
+        "nota": "Mikrotick",
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "HW",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Cableado",
+        "nota": "CAT 5",
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "HW Red",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Guido Cabrera",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Jan L. Wojciechowski",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "Instituto Crandon",
+    "servicios": [
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "ISTEC ingenieria",
+    "servicios": [
+      {
+        "servicio": "M365",
+        "nota": null,
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "ISUSA",
+    "servicios": [
+      {
+        "servicio": "Veeam",
+        "nota": null,
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "Respaldo Nube",
+        "nota": null,
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "KNOWMADMOOD",
+    "servicios": [
+      {
+        "servicio": "HW",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Federico Méndez",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "LABORATORIO KEMIA",
+    "servicios": [
+      {
+        "servicio": "M365",
+        "nota": null,
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "LAROBOTICS-XINERGIAS",
+    "servicios": [
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "Liceo Frances",
+    "servicios": [
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "LQB",
+    "servicios": [
+      {
+        "servicio": "Forti",
+        "nota": null,
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "HW Red",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Jan L. Wojciechowski",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "Megalabs",
+    "servicios": [
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Guido Cabrera",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "MOVIE - Jelsi S.A",
+    "servicios": [
+      {
+        "servicio": "Adobe",
+        "nota": null,
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Guido Cabrera",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "MSA - Diego Stirling",
+    "servicios": [
+      {
+        "servicio": "M365",
+        "nota": "Google (no se lo vendemos pero lo administramos)",
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "Forti",
+        "nota": "Mikrotick",
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "HW",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Cableado",
+        "nota": "CAT 5",
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "HW Red",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Guido Cabrera",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Jan L. Wojciechowski",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "MSA - Federico Marquez",
+    "servicios": [
+      {
+        "servicio": "M365",
+        "nota": "Google (no se lo vendemos pero lo administramos)",
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "Forti",
+        "nota": "Mikrotick",
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "HW",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Cableado",
+        "nota": "CAT 5",
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "HW Red",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Guido Cabrera",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Jan L. Wojciechowski",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "MSA - Yaco Nuchowich",
+    "servicios": [
+      {
+        "servicio": "M365",
+        "nota": "Google (no se lo vendemos pero lo administramos)",
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Guido Cabrera",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Jan L. Wojciechowski",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "MSL CORPORATE",
+    "servicios": [
+      {
+        "servicio": "M365",
+        "nota": "No con nosotros",
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "Veeam",
+        "nota": "Acronis",
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "Antivirus",
+        "nota": "Acronis",
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "HW",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Cableado",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "HW Red",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "IP Phone",
+        "nota": null,
+        "categoria": "Telefonía y CCTV"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Guido Cabrera",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Nicolás Ferraguz",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "MSL URUGUAY",
+    "servicios": [
+      {
+        "servicio": "Veeam",
+        "nota": "Acronis",
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "Antivirus",
+        "nota": "Acronis",
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "HW",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Cableado",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "HW Red",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "IP Phone",
+        "nota": null,
+        "categoria": "Telefonía y CCTV"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Guido Cabrera",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Nicolás Ferraguz",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "NELSON SOBRERO",
+    "servicios": [
+      {
+        "servicio": "M365",
+        "nota": "Google (no lo administramos)",
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "Veeam",
+        "nota": null,
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "Respaldo Nube",
+        "nota": null,
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "Vmware",
+        "nota": "Version 673 (sin soporte)",
+        "categoria": "Virtualización y Servidores"
+      },
+      {
+        "servicio": "Forti",
+        "nota": "Mikrotick",
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "HW",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Cableado",
+        "nota": "CAT 5",
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "HW Red",
+        "nota": "x (poca cosa)",
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Guido Cabrera",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Gabriel Plada / Pablo Bulla",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "NITER S.A",
+    "servicios": [
+      {
+        "servicio": "Veeam",
+        "nota": null,
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "Respaldo Nube",
+        "nota": null,
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "Forti",
+        "nota": "Mikrotick",
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "Cableado",
+        "nota": "CAT 5",
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "HW Red",
+        "nota": "Switch de 100mb",
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Guido Cabrera",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "Nordex",
+    "servicios": [
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "NOVA CONSTRUCCIONES",
+    "servicios": [
+      {
+        "servicio": "M365",
+        "nota": null,
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "Veeam",
+        "nota": null,
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "VDC",
+        "nota": "En proceso",
+        "categoria": "Virtualización y Servidores"
+      },
+      {
+        "servicio": "Forti",
+        "nota": null,
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "Adobe",
+        "nota": null,
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "HW",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Cableado",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "HW Red",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "IP Phone",
+        "nota": null,
+        "categoria": "Telefonía y CCTV"
+      },
+      {
+        "servicio": "CCTV",
+        "nota": null,
+        "categoria": "Telefonía y CCTV"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Deimis Quintanilla",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "PAMER",
+    "servicios": [
+      {
+        "servicio": "M365",
+        "nota": null,
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "Veeam",
+        "nota": null,
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "Vmware",
+        "nota": null,
+        "categoria": "Virtualización y Servidores"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Juan Manuel Tato",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "PRODHIN - FANAPRHU",
+    "servicios": [
+      {
+        "servicio": "Veeam",
+        "nota": null,
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "HW",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "HW Red",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Juan Manuel Tato",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Sergio Cruz",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "PRODHIN - MARUBY",
+    "servicios": [
+      {
+        "servicio": "Veeam",
+        "nota": null,
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "HW",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "HW Red",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Juan Manuel Tato",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Sergio Cruz",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "PRODHIN - MBCD",
+    "servicios": [
+      {
+        "servicio": "Veeam",
+        "nota": null,
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "HW",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "HW Red",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Juan Manuel Tato",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Sergio Cruz",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "PULSO",
+    "servicios": [
+      {
+        "servicio": "Veeam",
+        "nota": null,
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "Respaldo Nube",
+        "nota": null,
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "Vmware",
+        "nota": null,
+        "categoria": "Virtualización y Servidores"
+      },
+      {
+        "servicio": "Forti",
+        "nota": null,
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "HW",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Cableado",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "HW Red",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Juan Manuel Tato",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Gabriel",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "PUNTA CARRETAS",
+    "servicios": [
+      {
+        "servicio": "M365",
+        "nota": null,
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "Veeam",
+        "nota": null,
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "Vmware",
+        "nota": null,
+        "categoria": "Virtualización y Servidores"
+      },
+      {
+        "servicio": "Antivirus",
+        "nota": "Eset (ACCSA)",
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "Forti",
+        "nota": null,
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "Adobe",
+        "nota": null,
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "HW",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "HW Red",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "IP Phone",
+        "nota": null,
+        "categoria": "Telefonía y CCTV"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Guido Cabrera",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Nicolás Ferraguz",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "RECIND SA",
+    "servicios": [
+      {
+        "servicio": "M365",
+        "nota": "Cpanel",
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "Veeam",
+        "nota": "Gratis",
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "Vmware",
+        "nota": "Version 7 (sin soporte)",
+        "categoria": "Virtualización y Servidores"
+      },
+      {
+        "servicio": "Forti",
+        "nota": "Mikrotick",
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "Cableado",
+        "nota": "CAT 5",
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Guido Cabrera",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Pablo Bulla",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "RETTA LIBROS",
+    "servicios": [
+      {
+        "servicio": "M365",
+        "nota": null,
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "Cableado",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Juan Manuel Tato",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "Rica Consultores",
+    "servicios": [
+      {
+        "servicio": "M365",
+        "nota": null,
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "Riogas SA",
+    "servicios": [
+      {
+        "servicio": "HW",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "Robert Bosch Uruguay S.A",
+    "servicios": [
+      {
+        "servicio": "HW",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Guido Cabrera",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "RYNDER",
+    "servicios": [
+      {
+        "servicio": "Respaldo Nube",
+        "nota": null,
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "Vmware",
+        "nota": null,
+        "categoria": "Virtualización y Servidores"
+      },
+      {
+        "servicio": "Forti",
+        "nota": "Mikrotik",
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "HW",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "HW Red",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Pablo Bulla",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "SANITARIA PATRON",
+    "servicios": [
+      {
+        "servicio": "M365",
+        "nota": null,
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "Veeam",
+        "nota": null,
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "Respaldo Nube",
+        "nota": null,
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "Forti",
+        "nota": "Mikrotick",
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "HW",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Cableado",
+        "nota": "CAT 5 (no lo hacemos nosotros)",
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "HW Red",
+        "nota": "AP (UBQ)",
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Guido Cabrera",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Pablo Bulla",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "SANTILLANA",
+    "servicios": [
+      {
+        "servicio": "Veeam",
+        "nota": "España",
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "Vmware",
+        "nota": "Hyper-V",
+        "categoria": "Virtualización y Servidores"
+      },
+      {
+        "servicio": "Forti",
+        "nota": "Check-Point (españa)",
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "Cableado",
+        "nota": "CAT 5 (solo los ap con 6)",
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "HW Red",
+        "nota": "AP (UBQ)",
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Guido Cabrera",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Pablo Bulla",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "SELF",
+    "servicios": [
+      {
+        "servicio": "M365",
+        "nota": null,
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "NUBE",
+        "nota": "SharePoint",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Forti",
+        "nota": "Forti",
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "Cableado",
+        "nota": "CAT 5",
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "HW Red",
+        "nota": "AP (Forti) desactualizados",
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Guido Cabrera",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Pablo Bulla",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "Serviam",
+    "servicios": [
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Juan Manuel Tato",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "Suat S.C",
+    "servicios": [
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "TAHONA",
+    "servicios": [
+      {
+        "servicio": "HW",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Cableado",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "HW Red",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "TASHIRO TAKATA",
+    "servicios": [
+      {
+        "servicio": "M365",
+        "nota": null,
+        "categoria": "Productividad y Licencias"
+      },
+      {
+        "servicio": "Veeam",
+        "nota": null,
+        "categoria": "Respaldo y Storage"
+      },
+      {
+        "servicio": "Antivirus",
+        "nota": null,
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "Forti",
+        "nota": null,
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "HW",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      },
+      {
+        "servicio": "Técnico (Nombre Completo)",
+        "nota": "Eduardo Ligüera",
+        "categoria": "Soporte y Técnicos"
+      }
+    ]
+  },
+  {
+    "cliente": "TÉCNICA DEL PLATA",
+    "servicios": [
+      {
+        "servicio": "VDC",
+        "nota": null,
+        "categoria": "Virtualización y Servidores"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "Teyma",
+    "servicios": [
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "TRIOS LIGHTING",
+    "servicios": [
+      {
+        "servicio": "Forti",
+        "nota": "Mikrotik",
+        "categoria": "Seguridad y Antivirus"
+      },
+      {
+        "servicio": "HW",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Cableado",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "HW Red",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "TTL",
+    "servicios": [
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Guido Cabrera",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "UCM Uruguay SA (PERSES SA)",
+    "servicios": [
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "URUFARMA",
+    "servicios": [
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Carolina Rivero",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "VIAJES EL CORTE INGLES URUGUAY",
+    "servicios": [
+      {
+        "servicio": "HW",
+        "nota": null,
+        "categoria": "Infraestructura de Red"
+      },
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Guido Cabrera",
+        "categoria": "Otros"
+      }
+    ]
+  },
+  {
+    "cliente": "ORUDAL S.A / FRONTMATEC",
+    "servicios": [
+      {
+        "servicio": "Vendedor (Nombre Completo)",
+        "nota": "Guido Cabrera",
+        "categoria": "Otros"
+      }
+    ]
+  }
+]
