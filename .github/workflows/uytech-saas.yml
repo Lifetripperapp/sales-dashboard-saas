@@ -1,4 +1,4 @@
-name: UYTECH SaaS - CI/CD
+name: Sales Dashboard SaaS - CI/CD
 
 on:
   push:

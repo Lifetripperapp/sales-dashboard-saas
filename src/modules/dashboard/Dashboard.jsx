@@ -48,7 +48,7 @@ const Dashboard = () => {
 
   return (
     <div className="container mx-auto px-4">
-      <h1 className="text-2xl font-semibold mb-6 text-[#4A453F]">UYTECH Sales Dashboard</h1>
+              <h1 className="text-2xl font-semibold mb-6 text-[#4A453F]">Sales Dashboard</h1>
       
       {/* Client Summary section */}
       <div className="mb-8">

@@ -1,7 +1,7 @@
 {
-  "name": "uytech-saas",
+  "name": "sales-dashboard-saas",
   "version": "1.0.0",
-  "description": "UYTECH Sales Dashboard - SaaS Multi-Tenant Version",
+  "description": "Sales Dashboard - SaaS Multi-Tenant Version",
   "main": "server.js",
   "scripts": {
     "dev": "vite",
@@ -112,6 +112,6 @@
     "stripe",
     "auth0"
   ],
-  "author": "UYTECH Team",
+  "author": "Sales Dashboard Team",
   "license": "MIT"
 }

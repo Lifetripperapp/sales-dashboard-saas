@@ -39,7 +39,7 @@ const ProtectedRoute = ({ children }) => {
             </div>
             <h1 className="text-2xl font-bold text-[#4A453F] mb-4">Check Your Email</h1>
             <p className="text-gray-600 mb-6">
-              We've sent a verification email to your inbox. Please click the verification link to complete your registration and access the UYTECH dashboard.
+              We've sent a verification email to your inbox. Please click the verification link to complete your registration and access the Sales Dashboard.
             </p>
             <div className="bg-blue-50 p-4 rounded-lg mb-6">
               <p className="text-sm text-blue-800">
@@ -91,13 +91,13 @@ const ProtectedRoute = ({ children }) => {
         <div className="text-center bg-white p-8 rounded-lg shadow-md">
           <img 
             src="/logo.png" 
-            alt="UYTECH Logo" 
+            alt="Sales Dashboard Logo" 
             className="h-16 mx-auto mb-6"
             onError={(e) => {
               e.target.style.display = 'none';
             }}
           />
-          <h1 className="text-3xl font-bold text-[#4A453F] mb-4">UYTECH Sales Dashboard</h1>
+          <h1 className="text-3xl font-bold text-[#4A453F] mb-4">Sales Dashboard</h1>
           <p className="text-gray-600 mb-6">Please log in to access the dashboard</p>
           <div className="flex gap-4 justify-center">
             <LoginButton className="text-lg px-8 py-3">

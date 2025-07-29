@@ -64,7 +64,7 @@ const SideMenu = () => {
         <div className="flex justify-center py-6 border-b border-[#D3D0CD]">
           <img
             src={logoImage}
-            alt="UYTECH Logo"
+            alt="Sales Dashboard Logo"
             className="h-[50px]"
           />
         </div>
